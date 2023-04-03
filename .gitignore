@@ -1,2 +1,2 @@
-setevn.sh
+*.sh*
 venv/
