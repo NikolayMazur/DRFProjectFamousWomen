@@ -1,1 +1,0 @@
-export SECRET_KEY='django-insecure-!)!kts_bb!$yd3pr^mvu$)xkk*zhcj@n+37u$mmv45tm%x98pu'
